@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0014-longest-common-prefix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
