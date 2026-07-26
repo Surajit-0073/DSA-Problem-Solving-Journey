@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0014-longest-common-prefix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1301-number-of-paths-with-max-score) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3867-sum-of-gcd-of-formed-pairs) |
