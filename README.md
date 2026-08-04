@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
