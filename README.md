@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
