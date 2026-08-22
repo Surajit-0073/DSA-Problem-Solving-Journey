@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
