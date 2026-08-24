@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -250,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
