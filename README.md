@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
