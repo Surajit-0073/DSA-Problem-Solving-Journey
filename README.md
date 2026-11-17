@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/1872-stone-game-viii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3693-climbing-stairs-ii](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Surajit-0073/DSA-Problem-Solving-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surajit-0073/Longest-Common-Prefix/tree/master/3867-sum-of-gcd-of-formed-pairs) |
